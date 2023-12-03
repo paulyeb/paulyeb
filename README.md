@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey what's up? 👋
+
+I'm Paul, software developer from Ghana
 
 <!--
 **paulyeb/paulyeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
