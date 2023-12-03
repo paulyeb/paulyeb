@@ -1,6 +1,6 @@
 ### Hey what's up? 👋
 
-I'm Paul, software developer from Ghana ![GhanaFlagGifGIF](https://github.com/paulyeb/paulyeb/assets/86414651/d8ce7728-c7a7-4428-91a4-0352878037a2)
+I'm Paul, software developer from Ghana 
 
 -  ❤️ I love react native.
 -  🔭 I’m currently working on multiple mobile applications.
