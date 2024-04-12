@@ -9,7 +9,6 @@ I'm Paul, software developer from Ghana
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Javascript stan!
 
-  https://github.com/anuraghazra/github-readme-stats
 
 <!-- - 🌱 I’m currently learning ... 
 - 🤔 I’m looking for help with ...
