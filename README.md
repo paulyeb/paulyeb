@@ -1,16 +1,16 @@
 ### Hey what's up? 👋
 
-I'm Paul, software developer from Ghana 
+I'm Paul — a fullstack software engineer and founder from Ghana 🇬🇭
 
--  ❤️ React | React Native Developer.
--  🔭 I’m currently working on multiple mobile applications.
-- 👯 I’m looking to collaborate on any react native projects if you need an extra hand.
-- 📫 You can reach me via yeboaasamoah@gmail.com or https://linkedin.com/in/paul-yeboah-asamoah
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Javascript stan!
-
-
-<!-- - 🌱 I’m currently learning ... 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
+❤️ React | Next.js | TypeScript | Supabase | Tailwind
+🧠 Currently diving deep into AI Engineering (LLMs)
+🚀 Building Tablert — a church management SaaS focused on finance, member management & automation
+💼 Leading development, designing systems, reviewing code & shipping production-ready features
+⚙️ Strong backend experience with Node.js, NestJS, PostgreSQL, and scalable architectures
+💡 Interested in SaaS, fintech, and building products that solve real problems in Africa
+📊 Exploring monetization, subscriptions, and product growth strategies
+👯 Open to collaborating on serious SaaS or AI-driven products
+📫 Reach me: yeboaasamoah@gmail.com
+ | https://linkedin.com/in/paul-yeboah-asamoah
+😄 Pronouns: He/Him
+⚡ Fun fact: Still a JavaScript stan… but AI is slowly taking over 😄
